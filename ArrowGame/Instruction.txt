@@ -1,0 +1,3 @@
+A modified iGraphics is available in the file section.It offers the option to detect and use the mouse movement without pressing any button.
+
+An example [mousedemo.cpp] is provided which will give instruction to show the value of a variable through iText().s
